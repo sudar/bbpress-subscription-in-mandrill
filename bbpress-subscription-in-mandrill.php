@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: bbPress - Subscription in Mandrill
-Plugin URI: https://gist.github.com/ntwb/d45948672dbf5fd580c9
+Plugin URI: https://github.com/sudar/bbpress-subscription-in-mandrill/blob/master/bbpress-subscription-in-mandrill.php
 Description: Allows you to send topic subscription emails from bbPress through wpMandrill
 Plugin URI: http://sudarmuthu.com/wordpress/
 Version: 0.1
